@@ -1,0 +1,42 @@
+div {
+    width: 60%;
+    margin-top: 100px;
+    margin: auto;
+    border: solid black 1px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.4);
+    }
+
+
+.counter {
+    text-align: center;
+    margin-top: 100px;
+    border-radius: 20px;
+
+  }
+
+  h1 {
+    font-size: 48px;
+    color: rebeccapurple;
+    padding: auto;
+    text-shadow: 1px 2px aliceblue;
+
+  }
+  
+  span {
+    font-size: 48px;
+    border: solid black 1px;
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: green;
+    color: aliceblue;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 24px;
+    margin: 10px;
+    border-radius: 20px;
+
+  }
+  
